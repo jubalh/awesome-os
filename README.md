@@ -30,3 +30,4 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Website
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
+* [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - An awesome list of curated UNIX and UNIX-like OSes.

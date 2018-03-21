@@ -7,6 +7,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
+* [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Redox](https://github.com/redox-os/redox) - written in Rust

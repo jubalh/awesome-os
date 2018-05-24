@@ -29,6 +29,11 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
 
+### Tutorials
+
+* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) by Greg Kroah-Hartman
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greag Kroah-Hartman
+
 ### Website
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German

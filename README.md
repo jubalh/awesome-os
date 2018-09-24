@@ -33,6 +33,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) by Greg Kroah-Hartman
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greag Kroah-Hartman
+* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) by Carlos Fenollosa
 
 ### Website
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know

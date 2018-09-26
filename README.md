@@ -18,6 +18,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
 * [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
+* [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 
 ## Books and Guides
 

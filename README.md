@@ -39,3 +39,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Website
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
+
+### Papers
+* [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

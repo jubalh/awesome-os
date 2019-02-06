@@ -9,6 +9,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
+* [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++

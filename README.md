@@ -14,6 +14,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
+* [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 
 ### Hobby
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C

@@ -19,6 +19,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Hobby
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
+* [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
 * [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal

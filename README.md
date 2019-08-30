@@ -7,11 +7,13 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
+* [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Redox](https://github.com/redox-os/redox) - written in Rust
+* [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.

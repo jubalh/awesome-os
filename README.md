@@ -37,16 +37,19 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [The little book about OS development](http://littleosbook.github.io/) by *Erik Helin* and *Adam Renberg*
 * [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Easy to read book covering virtualization, concurrency and persistence
 
 ### Tutorials
 
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) by Greg Kroah-Hartman
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greag Kroah-Hartman
 * [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) by Carlos Fenollosa
+* [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
 
 ### Website
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
+* [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) - Standards for maintaining compatibility between operating systems
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

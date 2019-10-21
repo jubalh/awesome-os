@@ -27,6 +27,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) -  x86 Operating System written in C++, High School Project
+* [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
 
 ## Books and Guides
 
@@ -38,6 +39,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Easy to read book covering virtualization, concurrency and persistence
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 
 ### Tutorials
 

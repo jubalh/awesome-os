@@ -30,6 +30,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) -  x86 Operating System written in C++, High School Project
 * [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
+* [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 
 ## Books and Guides
 

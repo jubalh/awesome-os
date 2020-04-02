@@ -21,6 +21,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ### Hobby
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
+* [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 

@@ -22,6 +22,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Hobby
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
+* [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*

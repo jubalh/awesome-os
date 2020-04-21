@@ -20,6 +20,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 
 ### Hobby
+* [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C

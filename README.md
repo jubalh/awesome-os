@@ -51,7 +51,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm) by Brandon Friesen
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) by Greg Kroah-Hartman
-* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greag Kroah-Hartman
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greg Kroah-Hartman
 * [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) by Carlos Fenollosa
 * [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel) by Arjun Sreedharan

@@ -23,6 +23,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
+* [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers

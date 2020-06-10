@@ -37,6 +37,16 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
 * [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
 
+### Popular Operating Systems
+* [Linux](https://github.com/torvalds/linux) - Linux kernel
+* [Minix](https://www.minix3.org/), [Github](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Unix-like operating system based on a microkernel architecture
+* [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) - Unix-like operating system based on the BSD
+* [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) - Unix-like operating system based on the BSD
+* [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) - Unix-like operating system based on the BSD
+* [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
+* [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
+* [Darwin XNU](https://github.com/apple/darwin-xnu) - The XNU kernel source code for use in MacOS and iOS
+
 ## Books and Guides
 
 ### Online books

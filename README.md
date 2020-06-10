@@ -48,6 +48,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Easy to read book covering virtualization, concurrency and persistence
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
 
 ### Tutorials
 

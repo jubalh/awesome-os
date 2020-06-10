@@ -36,6 +36,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) -  x86 Operating System written in C++, High School Project
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
 * [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
+* [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron
 
 ### Popular Operating Systems
 * [Linux](https://github.com/torvalds/linux) - Linux kernel

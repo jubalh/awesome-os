@@ -8,8 +8,10 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
+* [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
+* [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
@@ -17,8 +19,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
-* [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
-* [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 
 ### Hobby
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
@@ -30,23 +30,23 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
+* [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 * [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
-* [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) -  x86 Operating System written in C++, High School Project
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
-* [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
 * [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron
+* [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
 
 ### Popular Operating Systems
+* [Darwin XNU](https://github.com/apple/darwin-xnu) - The XNU kernel source code for use in MacOS and iOS
+* [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) - Unix-like operating system based on the BSD
 * [Linux](https://github.com/torvalds/linux) - Linux kernel
 * [Minix](https://www.minix3.org/), [Github](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Unix-like operating system based on a microkernel architecture
-* [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) - Unix-like operating system based on the BSD
+* [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
 * [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) - Unix-like operating system based on the BSD
 * [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) - Unix-like operating system based on the BSD
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
-* [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
-* [Darwin XNU](https://github.com/apple/darwin-xnu) - The XNU kernel source code for use in MacOS and iOS
 
 ## Books and Guides
 

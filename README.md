@@ -42,6 +42,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Popular Operating Systems
 * [Darwin XNU](https://github.com/apple/darwin-xnu) - The XNU kernel source code for use in MacOS and iOS
 * [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) - Unix-like operating system based on the BSD
+* [Haiku](https://github.com/haiku/haiku) - BeOS inspired OS
 * [Linux](https://github.com/torvalds/linux) - Linux kernel
 * [Minix](https://www.minix3.org/), [Github](https://github.com/Stichting-MINIX-Research-Foundation/minix) - Unix-like operating system based on a microkernel architecture
 * [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0

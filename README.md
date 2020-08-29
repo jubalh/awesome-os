@@ -56,6 +56,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - in C++
 * [Intermezzos](https://intermezzos.github.io/book/) - A follow along book to build IntermezzosOS in Rust
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) - Covers the entire range of kernel tasks, available as chapters or one PDF
 * [The little book about OS development](http://littleosbook.github.io/) by *Erik Helin* and *Adam Renberg*
 * [Think OS](http://greenteapress.com/thinkos/) - A Brief Introduction to Operating Systems by *Allen B. Downey*
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C

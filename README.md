@@ -50,6 +50,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
 * [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) - Unix-like operating system based on the BSD
 * [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) - Unix-like operating system based on the BSD
+* [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) - A free Windows-compatible Operating System 
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
 
 ## Books and Guides

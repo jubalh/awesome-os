@@ -11,6 +11,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
+* [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - Warm and cozy, open-source operating system compatible with existing apps and games 
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators

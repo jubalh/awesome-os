@@ -18,7 +18,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
-* [Redox](https://github.com/redox-os/redox) - written in Rust
+* [Redox](https://github.com/redox-os/redox) - OS written in Rust, a language with focus on safety and high performance.
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 

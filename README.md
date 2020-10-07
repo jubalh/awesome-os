@@ -16,6 +16,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
+* [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [Redox](https://github.com/redox-os/redox) - written in Rust

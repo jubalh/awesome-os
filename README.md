@@ -77,6 +77,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) by Greg Kroah-Hartman
 * [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) by Carlos Fenollosa
 * [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
+* [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/) by Stephen Marz
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel) by Arjun Sreedharan
 * [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard) by Arjun Sreedharan
 

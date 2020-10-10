@@ -5,6 +5,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ## Open Source Operating Systems
 
+* [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*

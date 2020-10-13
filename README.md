@@ -5,11 +5,11 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ## Open Source Operating Systems
 
-* [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
+* [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 

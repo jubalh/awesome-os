@@ -23,6 +23,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
+* [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 
 ### Hobby

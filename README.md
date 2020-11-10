@@ -25,6 +25,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
+* [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 
 ### Hobby
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)

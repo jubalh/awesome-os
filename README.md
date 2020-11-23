@@ -43,6 +43,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) -  x86 Operating System written in C++, High School Project
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
+* [willOS](https://github.com/willdurand/willOS) - A minimal 64 bits kernel (Operating System that cannot "operate" a lot of things)
 * [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron
 * [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - A teaching operating system developed in the summer of 2006 for MIT's operating systems course
 * [BareMetal](http://www.returninfinity.com/), [GitHub](https://github.com/ReturnInfinity/BareMetal) - 64 bit operating system written in Assembly for x86-64

@@ -28,6 +28,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 
 ### Hobby
+* [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.

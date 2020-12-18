@@ -27,6 +27,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
+* [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 
 ### Hobby
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent

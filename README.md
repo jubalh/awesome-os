@@ -14,6 +14,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
+* [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9

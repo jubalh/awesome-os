@@ -25,6 +25,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
+* [soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.

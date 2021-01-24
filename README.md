@@ -24,6 +24,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [Redox](https://github.com/redox-os/redox) - written in Rust
+* [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform

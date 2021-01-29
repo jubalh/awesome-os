@@ -40,7 +40,9 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
+* [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
+* [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86

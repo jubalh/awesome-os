@@ -18,8 +18,10 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
+* [HarveyOS](https://harvey-os.org/) - A distributed operating system
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
+* [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O

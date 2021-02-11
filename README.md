@@ -44,6 +44,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
+* [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch

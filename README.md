@@ -36,6 +36,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 * [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+* [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 
 ### Hobby
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
@@ -110,3 +111,4 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL
+* [Running Scheme On Bare Metal](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-) by Samuel Yvon, Marc Feeley, Scheme 2020

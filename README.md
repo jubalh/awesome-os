@@ -104,6 +104,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)  by James Molloy
 * [Writing an OS in Rust](https://os.phil-opp.com/) by Philipp Oppermann
 * [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/) by Stephen Marz
+* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac) by Leo Whitehead
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel) by Arjun Sreedharan
 * [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard) by Arjun Sreedharan
 * [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/) by Joe Bergeron

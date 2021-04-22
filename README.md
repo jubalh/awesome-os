@@ -21,6 +21,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
 * [HarveyOS](https://harvey-os.org/) - A distributed operating system
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
+* [helium](https://github.com/mszoek/helium) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators

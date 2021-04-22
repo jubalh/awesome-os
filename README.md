@@ -46,6 +46,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
+* [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.

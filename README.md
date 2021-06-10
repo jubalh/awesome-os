@@ -58,7 +58,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
-* [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
+* [PathOS](http://path-os.duckdns.org/), [GitHub](https://github.com/calebrwalk5/PathOS) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 

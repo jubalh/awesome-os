@@ -31,6 +31,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
+* [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.

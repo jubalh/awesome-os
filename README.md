@@ -58,7 +58,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
-* [PonyOS](https://ponyos.org/) - ToaruOS-based, My Little Pony themed OS
+* [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*

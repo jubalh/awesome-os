@@ -63,6 +63,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
+* [SimpleOS](https://github.com/xing1357/SimpleOS) - Simple Operating System coded in C and Assembly
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)

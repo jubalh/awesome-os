@@ -133,6 +133,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL
 * [Running Scheme On Bare Metal](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-) by Samuel Yvon, Marc Feeley, Scheme 2020
+* [Unikraft: Fast, Specialized Unikernels the Easy Way](https://dl.acm.org/doi/pdf/10.1145/3447786.3456248) by Kuenzer et al., EuroSys 2021
 
 ### Video Tutorials
 

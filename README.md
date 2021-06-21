@@ -42,6 +42,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Thor](https://github.com/wichtounet/thor-os) - 64bit operating system mostly written in C++
 * [Theseus](https://github.com/theseus-os/Theseus) - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
 * [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+* [Unikraft](https://github.com/unikraft/unikraft) - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 
 ### Hobby

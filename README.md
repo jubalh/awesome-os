@@ -139,3 +139,4 @@ It contains open source operating sytems and hobby operating systems as one can 
 ### Video Tutorials
 
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+* [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)

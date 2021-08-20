@@ -62,6 +62,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
+* [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [PouplyOS](https://github.com/mtribiere/PoulpyOS) - Simple OS for fun and learning, named after the ESISAR mascot Poulpy

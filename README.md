@@ -59,6 +59,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
+* [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor

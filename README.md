@@ -152,3 +152,12 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 
+### Linux Kernel specific Resources
+
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+* [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
+* [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master)
+* [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+* [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
+

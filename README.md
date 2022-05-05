@@ -161,3 +161,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
 
+* [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
+* [OldLinux](http://www.oldlinux.org/) - A Heavily Commented Linux kernel source and more
+
+* [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
+* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)

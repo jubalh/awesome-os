@@ -65,6 +65,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
+* [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) - A hobby OS written in modern C++20 which aims to be Unix-like.
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C

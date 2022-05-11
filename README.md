@@ -50,6 +50,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Unikraft](https://github.com/unikraft/unikraft) - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
+* [os.directory](https://os.directory) - Distributed operating system. This platform emulates a linux distribution in your web browser.
 
 ### Hobby
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent

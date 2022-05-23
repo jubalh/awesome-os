@@ -34,6 +34,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
+* [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
 * [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 

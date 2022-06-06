@@ -170,3 +170,5 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+
+* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz

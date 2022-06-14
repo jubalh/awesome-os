@@ -56,6 +56,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
+* [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.

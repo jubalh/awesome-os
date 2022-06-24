@@ -34,9 +34,9 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
-* [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
+* [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.
@@ -50,17 +50,61 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Unikraft](https://github.com/unikraft/unikraft) - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
+* [buba-os](https://github.com/VMois/buba-os) - buba-os is simple OS is written from scratch in Assembly and C for x86 architecture. Project for "Basic of programming 1" course at Budapest University of Technology and Economics (BME).
+* [mini-os](https://github.com/sysml/mini-os) - mini-os is minimalistic Operating System for Xen
+* [mini-arm-os](https://github.com/jserv/mini-arm-os) - mini-arm-os is build a minimal multi-tasking OS kernel for ARM from scratch
+* [minios](https://github.com/vitaminac/minios) - mini x86 Operating System <= 256KB
+* [Mezzano](https://github.com/froggey/Mezzano) - An operating system written in Common Lisp
+* [nightingale](https://github.com/tyler569/nightingale) - A small operating system where I experiment and learn osdev.
+* [miniOS](https://github.com/HrushikeshK/miniOS) - A small OS written from scratch for learning purpose
+* [tinyos](https://github.com/mahavirj/tinyos) - Small x86/ARM Operating System built from scratch
+* [mini-os](https://github.com/mirage/mini-os) - Mirror of the Xen MiniOS Git from git://xenbits.xen.org/mini-os.git
+* [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust 
+* [mini-os](https://github.com/sysml/mini-os) - Minimalistic Operating System for Xen
+* [SerenityOS](https://github.com/SerenityOS/serenity) - The Serenity Operating System
+* [reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System)
+* [NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
+* [mbed-os](https://github.com/ARMmbed/mbed-os) - Arm Mbed OS is a platform operating system designed for the internet of things
+* [osv](https://github.com/cloudius-systems/osv) - OSv, a new operating system for the cloud.
+* [tock-os](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+* [minoca-os](https://github.com/minoca/os) - Minoca operating system
+* [amazon-freertos](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
+* [Harvey-OS](https://github.com/Harvey-OS/harvey) - A distributed operating system
+* [intermezzOS](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
+* [redshirt](https://github.com/tomaka/redshirt) - Operating system
+* [Vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
+* [illumos](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
+* [Interim](https://github.com/mntmn/interim) - The Interim Operating System
+* [jsos](https://github.com/haileys/jsos) - An operating system written in JavaScript
+* [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
+* [LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
+* [no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
+* [PowerNex](https://github.com/PowerNex/PowerNex) - An operating system written in D
+* [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) - opuntiaOS - an operating system targeting x86, ARMv7, Aarch64
+* [akaros](https://github.com/brho/akaros) - Akaros Operating System
+* [sos-os](https://github.com/sos-os/kernel) - The Stupid Operating System
+* [cleese](https://github.com/jtauber/cleese) - an operating system in Python
+* [MonkOS](https://github.com/beevik/MonkOS) - an experimental 64-bit operating system
+* [house](https://github.com/dls/house) - Haskell Operating System
+* [inferno-os](https://github.com/inferno-os/inferno-os)
+Inferno® is a distributed operating system. Inferno represents services and resources in a file-like name hierarchy, including devices, network and protocol interfaces, dynamic data sources, and services.Applications are written in a concurrent programming language, Limbo.
+* [SolidOS](https://github.com/SolidOS/solidos) - The operating system for Solid
+* [osicat](https://github.com/osicat/osicat) - Osicat is a lightweight operating system interface for Common Lisp
+* [CuriOS](https://github.com/h5n1xp/CuriOS) - Simple GUI based Operating System - Based upon my own Microcokernel, heavily inspired by the original 1980s AmigaOS (though somewhat simpler).
+* [tinyos](https://github.com/mahavirj/tinyos) - Small x86/ARM Operating System built from scratch
+* [Unknown-OS](https://github.com/TusharPardhe/Unknown-OS) - A fast and lightweight 64 bit Operating System which uses Openbox desktop environment and comes with a selection of useful application preinstalled
+* [minios](https://github.com/debashisbarman/minios) - Mini Operating System is a educational operating system with monolithic kernel design and clean implementation for x86 machines, written in C and Assembly.
+* [inferno-os](https://github.com/npe9/inferno) - The Inferno Operating System From Bell-Labs
+* [prex-os](https://github.com/davidgiven/prex) - Prex is a portable real-time operating system for embedded systems
 
 ### Hobby
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
-* [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
-* [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
 * [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
@@ -104,7 +148,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0
 * [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) - Unix-like operating system based on the BSD
 * [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) - Unix-like operating system based on the BSD
-* [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
 * [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) - A free Windows-compatible Operating System 
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
 
@@ -171,5 +214,3 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-
-* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz

@@ -17,6 +17,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 * [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
+* [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go

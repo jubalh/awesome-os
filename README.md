@@ -31,6 +31,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
+* [MentOS](https://github.com/mentos-team/MentOS) - An educational 32-bit linux-like Operating System.
 * [Mimiker](https://mimiker.ii.uni.wroc.pl/), [GitHub](https://github.com/cahirwpz/mimiker) - Simple unix-like operating system for education and research purposes. MIPS microkernel.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C

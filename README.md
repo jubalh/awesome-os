@@ -14,6 +14,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
+* [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - A simple, clean code, multi-tasking operating system written in pure Assembly language for 64-bit processors from the AMD64 family (based on [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 * [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
@@ -57,10 +58,10 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
-* [Cyjon](https://github.com/Blackend/Cyjon/) - pure x64 assembly language operating system
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
+* [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - A simple, clean code, multi-tasking operating system written in C language for 64-bit processors from the AMD64 family (based on [Cyjon](https://github.com/CorruptedByCPU/Cyjon/ project).
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.

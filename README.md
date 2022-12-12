@@ -61,7 +61,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
-* [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/ project).
+* [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.

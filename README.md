@@ -34,6 +34,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [MentOS](https://github.com/mentos-team/MentOS) - An educational 32-bit linux-like Operating System.
 * [Mimiker](https://mimiker.ii.uni.wroc.pl/), [GitHub](https://github.com/cahirwpz/mimiker) - Simple unix-like operating system for education and research purposes. MIPS microkernel.
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
+* [MollenOS](https://github.com/Meulengracht/MollenOS) - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.

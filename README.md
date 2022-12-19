@@ -55,6 +55,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
 ### Hobby
+* [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering

@@ -66,6 +66,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
+* [IanOS](https://github.com/iansjack/IanOS) - The IanOS teaching OS: Programming a 64-bit Operating System.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
 * [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
@@ -74,6 +75,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
 * [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) - A hobby OS written in modern C++20 which aims to be Unix-like.
+* [MonkOS](https://github.com/beevik/MonkOS) - MonkOS is an experimental 64-bit operating system for Intel and AMD processors.
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C

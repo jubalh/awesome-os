@@ -37,6 +37,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [MollenOS](https://github.com/Meulengracht/MollenOS) - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
+* [NESOS](https://notin.tokyo/nesos/) - An OS for the Nintendo Entertainment System!
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust

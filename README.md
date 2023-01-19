@@ -62,6 +62,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
+* [Dreamos64](https://github.com/dreamos82/Dreamos64) - An x86-64 hobby os built from scratch
 * [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
@@ -79,6 +80,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
+* [Northport](https://github.com/DeanoBurrito/northport) - Monolithic kernel and support libraries for riscv64 and x86_64.
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
 * [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
@@ -129,6 +131,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Easy to read book covering virtualization, concurrency and persistence
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
+* [Osdev Notes](https://github.com/dreamos82/Osdev-Notes) - How to write an operating system from scratch by *Ivan G.* and *Dean T.* 
 
 ### Tutorials
 

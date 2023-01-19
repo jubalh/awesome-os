@@ -180,3 +180,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 * [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz
+
+* [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)
+* [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/)
+* [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/)

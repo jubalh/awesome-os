@@ -10,13 +10,13 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.
-* *broken* [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
+* *[broken]* [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
-* *broken* [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
+* *[broken]* [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.

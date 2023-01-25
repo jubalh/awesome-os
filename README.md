@@ -55,6 +55,9 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
+### Security Centric Operating Systems
+* [Qubes OS](https://www.qubes-os.org/) - 'A reasonably secure operating system'
+
 ### Hobby
 * [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent

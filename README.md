@@ -43,6 +43,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
 * [ravynOS](https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Redox](https://github.com/redox-os/redox) - written in Rust
+* [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) - A simple, handmade, operating system with a graphical user interface.
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
@@ -157,6 +158,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
 * [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) - Standards for maintaining compatibility between operating systems
+* [Rust OSDev](https://rust-osdev.com/) - Newsletter about OS development in Rust
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

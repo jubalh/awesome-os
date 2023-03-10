@@ -179,6 +179,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master)
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 
 * [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
 * [OldLinux](http://www.oldlinux.org/) - A Heavily Commented Linux kernel source and more
@@ -191,3 +192,5 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)
 * [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/)
 * [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/)
+
+* [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103)

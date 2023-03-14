@@ -76,6 +76,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
+* [MaslOS](https://github.com/marceldobehere/MaslOS) - A 64 bit GUI multitasking Hobby OS written mostly from scratch in C++ and a bit of C/ASM.
 * [MenuetOS](http://www.menuetos.net/) - Hobby OS supporting 32 and 64 bit, written in Assembly language
 * [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) - A hobby OS written in modern C++20 which aims to be Unix-like.
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch

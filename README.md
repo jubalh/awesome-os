@@ -68,6 +68,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
+* [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.

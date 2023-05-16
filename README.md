@@ -197,3 +197,5 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/)
 
 * [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103)
+
+* [fibdrv Linux kernel module that calculates Fibonacci numbers](https://github.com/sysprog21/fibdrv)

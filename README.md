@@ -16,7 +16,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
-* *[broken]* [Embox](http://www.embox.rocks/) - Configurable operating system kernel designed for resource constrained and embedded systems.
+* [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.

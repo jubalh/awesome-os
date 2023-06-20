@@ -42,7 +42,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
-* [ravynOS](https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+* [Qubes OS](https://qubes-os.org) - Security-focused OS built on the Xen hypervisor, designed to isolate different compartments based on levels of trust.
+*[ravynOS](https://github.com/ravynsoft/ravynos) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.

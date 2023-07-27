@@ -39,6 +39,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NESOS](https://notin.tokyo/nesos/) - An OS for the Nintendo Entertainment System!
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
+* [octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS

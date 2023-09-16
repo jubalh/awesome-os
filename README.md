@@ -75,6 +75,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with Rust.
 * [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
+* [House|https://programatica.cs.pdx.edu//House/] - Haskell User's Operating System and Environment.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
 * [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.

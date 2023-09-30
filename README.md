@@ -27,6 +27,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [RavynOS](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Hubris](https://hubris.oxide.computer/) - Hubris is an operating system for microcontrollers developed by Oxide Computer Company in Rust
+* [Illumos](https://illumos.org/) - illumos is a Unix operating system which provides next-generation features for downstream distributions (like OmniOS, OpenIndiana, and Tribblix)
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators

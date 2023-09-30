@@ -7,6 +7,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [9front](http://9front.org) - A fork of Plan 9, designed for distributed, networked computing.
 * [ackOS](https://github.com/ackOS-project/ackOS) - A simple 64-bit operating system.
+* [ARAnyM/AFROS](https://aranym.github.io/) - AFROS is a self-explanatory acronym: Atari FRee Operating System
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.

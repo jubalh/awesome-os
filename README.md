@@ -109,6 +109,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) - x86 Operating System written in C++, High School Project
 * [unox-os](https://github.com/bistcuite/unox-os) - Unox is an educational unix-like operating system
+* [Vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
 * [willOS](https://github.com/willdurand/willOS) - A minimal 64 bits kernel (Operating System that cannot "operate" a lot of things)
 * [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron

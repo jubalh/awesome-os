@@ -96,6 +96,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [PouplyOS](https://github.com/mtribiere/PoulpyOS) - Simple OS for fun and learning, named after the ESISAR mascot Poulpy
+* [PureDarwin](https://github.com/PureDarwin/PureDarwin/wiki) - PureDarwin is a community project to extend Darwin into a complete, usable operating system
 * [r3](https://github.com/Narasimha1997/r3) - A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities
 * [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers

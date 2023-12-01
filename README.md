@@ -5,6 +5,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ## Open Source Operating Systems
 
+*[quickOS](quickOS.github.io) - An OS made by an independant developer, still in developement, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [9front](http://9front.org) - A fork of Plan 9, designed for distributed, networked computing.
 * [ackOS](https://github.com/ackOS-project/ackOS) - A simple 64-bit operating system.
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level

@@ -5,7 +5,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 ## Open Source Operating Systems
 
-*[quickOS](quickOS.github.io) - An OS made by an independant developer, still in developement, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [9front](http://9front.org) - A fork of Plan 9, designed for distributed, networked computing.
 * [ackOS](https://github.com/ackOS-project/ackOS) - A simple 64-bit operating system.
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
@@ -63,6 +62,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
 ### Hobby
+*[quickOS](evrestrgb.github.io) - An OS made by an independant developer, still in developement, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)

@@ -19,7 +19,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
-* [FreeRTOS](https://aws.amazon.com/freertos/), [GitHub](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers, by Amazon.
+* [FreeRTOS](https://www.freertos.org/), [GitHub](https://github.com/FreeRTOS/FreeRTOS) - IoT operating system for microcontrollers, by Amazon.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
@@ -27,6 +27,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
 * [RavynOS](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Hubris](https://hubris.oxide.computer/) - Hubris is an operating system for microcontrollers developed by Oxide Computer Company in Rust
+* [Illumos](https://illumos.org/) - illumos is a Unix operating system which provides next-generation features for downstream distributions (like OmniOS, OpenIndiana, and Tribblix)
 * [Interim](https://github.com/mntmn/interim) - Minimalist OS with concepts from Lisp machines and Plan9
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) - OS inspired by Plan9, 9front and Harvey OS
 * [KnightOS](https://github.com/KnightOS/KnightOS) - for z80 calculators
@@ -39,6 +40,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NESOS](https://notin.tokyo/nesos/) - An OS for the Nintendo Entertainment System!
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
+* [octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
@@ -60,6 +62,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 
 ### Hobby
+*[quickOS](evrestrgb.github.io) - An OS made by an independant developer, still in developement, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
@@ -71,8 +74,10 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [duckOS](https://github.com/byteduck/duckOS) - A hobby UNIX-like OS with a graphical window manager for x86 computers.
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
+* [Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with Rust.
 * [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [HalideOS](https://gdsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
+* [House](https://programatica.cs.pdx.edu//House/) - Haskell User's Operating System and Environment.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
 * [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
@@ -93,18 +98,21 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
 * [PouplyOS](https://github.com/mtribiere/PoulpyOS) - Simple OS for fun and learning, named after the ESISAR mascot Poulpy
+* [PureDarwin](https://github.com/PureDarwin/PureDarwin/wiki) - PureDarwin is a community project to extend Darwin into a complete, usable operating system
 * [r3](https://github.com/Narasimha1997/r3) - A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities
 * [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [SimpleOS](https://github.com/xing1357/SimpleOS) - Simple Operating System coded in C and Assembly
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
+* [Syllable](http://syllable.metaproject.frl/) - Successor of AtheOS, Syllable is designed in the tradition of the Amiga and BeOS, but built using many parts from the GNU project and Linux.
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
 * [TETRIS-OS](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
 * [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) - x86 Operating System written in C++, High School Project
 * [unox-os](https://github.com/bistcuite/unox-os) - Unox is an educational unix-like operating system
+* [Vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 * [Visopsys](https://visopsys.org/) - Open Source Hobby OS developed since 1997
 * [willOS](https://github.com/willdurand/willOS) - A minimal 64 bits kernel (Operating System that cannot "operate" a lot of things)
 * [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) - Hobby Windows 95 implementation in Electron
@@ -165,6 +173,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
 * [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) - Standards for maintaining compatibility between operating systems
 * [Rust OSDev](https://rust-osdev.com/) - Newsletter about OS development in Rust
+* [OSRTOS](https://www.osrtos.com/) - List of open source real-time operating systems
+* [Multicians](https://www.multicians.org/) - The Multicians web site presents the story of the Multics operating system for people interested in the system's history
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

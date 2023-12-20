@@ -10,10 +10,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
 * [BoneOS](https://github.com/Bone-Project/BoneOS)- OS for everyone built by everyone
 * [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket)- Linux-based OS meant for hosting containers.
-* *[broken]* [Cadex OS](https://github.com/opencreeck/Cadex-OS-Official) - a simple operating system kernel originally made by Prof. Douglas Thain at the University of Notre Dame and students
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
-* [CollapseOS](https://collapseos.org/) - Bootstrap post-collapse technology
 * [dahliaOS](https://dahliaos.io)- dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
@@ -67,7 +65,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
 * [Basekernel](https://github.com/dthain/basekernel) - A simple OS kernel for research, teaching, and fun
-* [Brutal](https://brutal-org.netlify.app/), [GitHub](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
+* [Brutal](https://github.com/brutal-org/brutal) - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [Dreamos64](https://github.com/dreamos82/Dreamos64) - An x86-64 hobby os built from scratch
@@ -80,7 +78,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [House](https://programatica.cs.pdx.edu//House/) - Haskell User's Operating System and Environment.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
-* [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
@@ -107,7 +104,6 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by *Jonas 'Sortie' Termansen*
 * [Syllable](http://syllable.metaproject.frl/) - Successor of AtheOS, Syllable is designed in the tradition of the Amiga and BeOS, but built using many parts from the GNU project and Linux.
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)
-* [TETRIS-OS](https://github.com/jdah/tetris-os) - An operating system, but it only plays Tetris.
 * [ToaruOS](https://github.com/klange/toaruos) - Hobby operating system from scratch
 * [Týndur](http://www.tyndur.org/) - Hobby operating system build by the Lowlevel community. Written in C and Pascal
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) - x86 Operating System written in C++, High School Project

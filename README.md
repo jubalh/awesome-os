@@ -173,6 +173,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
 * [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) - Standards for maintaining compatibility between operating systems
 * [Rust OSDev](https://rust-osdev.com/) - Newsletter about OS development in Rust
+* [OSRTOS](https://www.osrtos.com/) - List of open source real-time operating systems
+* [Multicians](https://www.multicians.org/) - The Multicians web site presents the story of the Multics operating system for people interested in the system's history
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

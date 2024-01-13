@@ -163,6 +163,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/) by Joe Bergeron
 * [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) by Alex Parker
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+* [mya](https://github.com/flydeoo/mya) a fun project to create OS from scratch by Erfan
 
 ### Website
 * [Genodians](https://genodians.org/) - Stories around the Genode Operating System

@@ -118,7 +118,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
 
 ### Popular Operating Systems
-* [Darwin XNU](https://github.com/apple/darwin-xnu) - The XNU kernel source code for use in MacOS and iOS
+* [Darwin XNU](https://github.com/apple-oss-distributions/xnu) - The XNU kernel source code for use in MacOS and iOS
 * [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) - Unix-like operating system based on the BSD
 * [FreeDOS](http://freedos.org/) - DOS compatible OS
 * [Haiku](https://github.com/haiku/haiku) - BeOS inspired OS

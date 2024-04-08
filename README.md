@@ -185,6 +185,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
+* [OSDev Lecture Series by AptRock327](https://youtube.com/playlist?list=PL5p37LtXzjqOoEl369i0nlTSaU1O3L-BN)
 
 ### Linux Kernel specific Resources
 

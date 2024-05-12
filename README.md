@@ -80,6 +80,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [House](https://programatica.cs.pdx.edu//House/) - Haskell User's Operating System and Environment.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
+* [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development) - UNIX-like 64-bit operating system written in Assembly, C++.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.

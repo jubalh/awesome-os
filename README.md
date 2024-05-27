@@ -189,7 +189,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [OSDev Lecture Series by AptRock327](https://youtube.com/playlist?list=PL5p37LtXzjqOoEl369i0nlTSaU1O3L-BN)
 
-### Linux Kernel specific Resources
+## Linux Kernel specific Resources
 
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
@@ -216,3 +216,11 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [fibdrv Linux kernel module that calculates Fibonacci numbers](https://github.com/sysprog21/fibdrv)
 
 * [kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
+
+### Tools
+
+* [b4](https://github.com/mricon/b4) a tool to help with email-based patch workflows 
+* [clang-extract](https://github.com/SUSE/clang-extract) a tool to extract code content from source files using the clang and LLVM infrastructure.
+* [hackermail](https://github.com/sjp38/hackermail) a mails management tool for hackers who collaborate using mailing lists
+* [virtme-ng](https://github.com/arighi/virtme-ng) - quickly build and run kernels inside a virtualized snapshot of your live system
+

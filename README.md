@@ -189,7 +189,9 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [OSDev Lecture Series by AptRock327](https://youtube.com/playlist?list=PL5p37LtXzjqOoEl369i0nlTSaU1O3L-BN)
 
-## Linux Kernel specific Resources
+## Linux Kernel specific
+
+* [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103)
 
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
@@ -200,18 +202,12 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 
 * [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
+* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz
+
 * [OldLinux](http://www.oldlinux.org/) - A Heavily Commented Linux kernel source and more
 
 * [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-
-* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz
-
-* [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/)
-* [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/)
-* [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/)
-
-* [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103)
 
 * [fibdrv Linux kernel module that calculates Fibonacci numbers](https://github.com/sysprog21/fibdrv)
 
@@ -226,3 +222,10 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [hackermail](https://github.com/sjp38/hackermail) a mails management tool for hackers who collaborate using mailing lists
 * [virtme-ng](https://github.com/arighi/virtme-ng) - quickly build and run kernels inside a virtualized snapshot of your live system
 
+### Blogposts
+* [Fixing bugs in the Linux kernel with Syzbot, Qemu and GDB](https://javiercarrascocruz.github.io/syzbot) by Javier Carrasco
+* [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023) by Jakub Kicinski
+* [Five commands to crash the kernel](https://mpdesouza.com/blog/five-commands-to-crash-the-kernel/) by Marcos Paulo de Souza
+* [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/) by Julia Evans.
+* [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/) by Julia Evans.
+* [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/) by Julia Evans.

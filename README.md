@@ -75,6 +75,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [emerald](https://github.com/Abb1x/emerald) - An operating system kernel written for fun in C
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
 * [Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with Rust.
+* [GarnOS](https://github.com/Garnek0/GarnOS) - Hobby OS powered by a modular kernel.
 * [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [HalideOS](https://gdsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [House](https://programatica.cs.pdx.edu//House/) - Haskell User's Operating System and Environment.

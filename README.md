@@ -217,6 +217,8 @@ It contains open source operating sytems and hobby operating systems as one can 
 
 * [kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
 
+* [syzbot](https://syzkaller.appspot.com/upstream) bugs
+
 ### Tools
 
 * [b4](https://github.com/mricon/b4) a tool to help with email-based patch workflows 

@@ -9,6 +9,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [AROS](https://aros.sourceforge.io/) - Research Operating System is a lightweight, efficient, and flexible desktop operating system, designed to help you make the most of your computer. It's an independent, portable and free project, aiming at being compatible with AmigaOS at the API level
 * [AlmeidaOS](https://github.com/PauloMigAlmeida/AlmeidaOS) - x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch
 * [Animal](https://github.com/frednora/animal) - 32 bit multithreaded operating system (formerly Gramado)
+* [AurixOS](https://github.com/aurixos/os) - A small multiplatform Operating System designed for developers and creators
 * [AquilaOS](https://aquilaos.com) - Operating System that is designed to be POSIX compliant and mostly ISA transparent
 * [BareMetal](http://www.returninfinity.com/), [GitHub](https://github.com/ReturnInfinity/BareMetal) - 64 bit operating system written in Assembly for x86-64
 * [Basekernel](https://github.com/dthain/basekernel) - A simple OS kernel for research, teaching, and fun

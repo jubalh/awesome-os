@@ -217,6 +217,8 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 * [Doing more with lore and b4](https://www.youtube.com/watch?v=wTpQYM08_Yg), [slides](https://lpc.events/event/11/contributions/983/attachments/759/1421/Doing%20more%20with%20lore%20and%20b4.pdf)
 
+* [Der Linux Kernel Entwicklungs-Workflow](https://media.ccc.de/v/clt23-193-der-linux-kernel-entwicklungs-workflow) (2023, German) by Rouven Czerwinski
+
 ### Tools
 
 * [b4](https://github.com/mricon/b4), [docu](https://b4.docs.kernel.org/en/latest/), a tool to help with email-based patch workflows

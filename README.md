@@ -236,8 +236,9 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Fixing bugs in the Linux kernel with Syzbot, Qemu and GDB](https://javiercarrascocruz.github.io/syzbot) by Javier Carrasco
 * [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023) by Jakub Kicinski
 * [Five commands to crash the kernel](https://mpdesouza.com/blog/five-commands-to-crash-the-kernel/) by Marcos Paulo de Souza
-* [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/) by Julia Evans.
-* [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/) by Julia Evans.
-* [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/) by Julia Evans.
-* [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
-* [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
+* [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/) by Julia Evans
+* [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/) by Julia Evans
+* [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/) by Julia Evans
+* [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/) by Ariel Miculas.
+* [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html) by Josef Bacik
+* [Apply Linux Kernel Patches from LKML](https://adam.younglogic.com/2022/10/apply-linux-kernel-patches-from-lkml/) by Adam Young (before he got aware of b4)

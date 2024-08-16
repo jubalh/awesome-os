@@ -229,6 +229,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Planet Kernel](https://planet.kernel.org/)
 
 * [Fixing bugs in the Linux kernel with Syzbot, Qemu and GDB](https://javiercarrascocruz.github.io/syzbot) by Javier Carrasco
+* [b4 for Linux kernel contributors](https://javiercarrascocruz.github.io/b4-for-kernel-contributors) by Javier Carrasco
 * [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023) by Jakub Kicinski
 * [Five commands to crash the kernel](https://mpdesouza.com/blog/five-commands-to-crash-the-kernel/) by Marcos Paulo de Souza
 * [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/) by Julia Evans

@@ -215,6 +215,8 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 * [syzbot](https://syzkaller.appspot.com/upstream) bugs
 
+* [Doing more with lore and b4](https://www.youtube.com/watch?v=wTpQYM08_Yg), [slides](https://lpc.events/event/11/contributions/983/attachments/759/1421/Doing%20more%20with%20lore%20and%20b4.pdf)
+
 ### Tools
 
 * [b4](https://github.com/mricon/b4) a tool to help with email-based patch workflows 
@@ -238,3 +240,4 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/) by Julia Evans.
 * [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/) by Julia Evans.
 * [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+* [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)

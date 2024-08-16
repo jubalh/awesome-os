@@ -237,3 +237,4 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [You can be a kernel hacker!](https://jvns.ca/blog/2014/09/18/you-can-be-a-kernel-hacker/) by Julia Evans.
 * [4 paths to being a kernel hacker](https://jvns.ca/blog/2014/01/04/4-paths-to-being-a-kernel-hacker/) by Julia Evans.
 * [Guessing Linux kernel registers](https://jvns.ca/blog/2016/01/18/guessing-linux-kernel-registers/) by Julia Evans.
+* [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)

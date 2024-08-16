@@ -224,11 +224,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [hackermail](https://github.com/sjp38/hackermail) a mails management tool for hackers who collaborate using mailing lists
 * [virtme-ng](https://github.com/arighi/virtme-ng) - quickly build and run kernels inside a virtualized snapshot of your live system
 
-### Email
-* Learn how to use git+email: [git-send-email](https://git-send-email.io/)
-* Learn how to review patches over email: [git-am](https://git-am.io/)
-* Use [plaintext](https://useplaintext.email) emails
-
 ### Blogposts
 
 * [Planet Kernel](https://planet.kernel.org/)
@@ -242,3 +237,12 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/) by Ariel Miculas.
 * [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html) by Josef Bacik
 * [Apply Linux Kernel Patches from LKML](https://adam.younglogic.com/2022/10/apply-linux-kernel-patches-from-lkml/) by Adam Young (before he got aware of b4)
+
+### Email
+* Learn how to use git+email: [git-send-email](https://git-send-email.io/)
+* Learn how to review patches over email: [git-am](https://git-am.io/)
+* Use [plaintext](https://useplaintext.email) emails
+
+* [The advantages of an email-driven git workflow](https://drewdevault.com/2018/07/02/Email-driven-git.html) by Drew DeVault
+* [Code review at the speed of email](https://drewdevault.com/2022/07/25/Code-review-with-aerc.html) by Drew DeVault
+

@@ -222,6 +222,11 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [hackermail](https://github.com/sjp38/hackermail) a mails management tool for hackers who collaborate using mailing lists
 * [virtme-ng](https://github.com/arighi/virtme-ng) - quickly build and run kernels inside a virtualized snapshot of your live system
 
+### Email
+* Learn how to use git+email: [git-send-email](https://git-send-email.io/)
+* Learn how to review patches over email: [git-am](https://git-am.io/)
+* Use [plaintext](https://useplaintext.email) emails
+
 ### Blogposts
 
 * [Planet Kernel](https://planet.kernel.org/)

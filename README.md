@@ -228,6 +228,9 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 * [Planet Kernel](https://planet.kernel.org/)
 
+* [Become a Linux kernel contributor - Part 1](https://javiercarrascocruz.github.io/kernel-contributor-1) by Javier Carrasco
+* [Become a Linux kernel contributor - Part 2](https://javiercarrascocruz.github.io/kernel-contributor-2) by Javier Carrasco
+* [Become a Linux kernel contributor - Part 3](https://javiercarrascocruz.github.io/kernel-contributor-3) by Javier Carrasco
 * [Fixing bugs in the Linux kernel with Syzbot, Qemu and GDB](https://javiercarrascocruz.github.io/syzbot) by Javier Carrasco
 * [b4 for Linux kernel contributors](https://javiercarrascocruz.github.io/b4-for-kernel-contributors) by Javier Carrasco
 * [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023) by Jakub Kicinski

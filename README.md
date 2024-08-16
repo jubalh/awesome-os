@@ -222,6 +222,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [b4](https://github.com/mricon/b4), [docu](https://b4.docs.kernel.org/en/latest/), a tool to help with email-based patch workflows
 * [clang-extract](https://github.com/SUSE/clang-extract) a tool to extract code content from source files using the clang and LLVM infrastructure.
 * [hackermail](https://github.com/sjp38/hackermail) a mails management tool for hackers who collaborate using mailing lists
+* [kworkflow](https://github.com/kworkflow/kworkflow) - reduce the overhead with infrastructure setup for Linux development
 * [virtme-ng](https://github.com/arighi/virtme-ng) - quickly build and run kernels inside a virtualized snapshot of your live system
 
 ### Blogposts

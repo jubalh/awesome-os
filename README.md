@@ -249,6 +249,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Patch Workflow With Mutt 2019](http://www.kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/) by Greg Kroah-Hartman
 * [Debug kernel with KGDB](https://www.marcusfolkesson.se/blog/debug-kernel-with-kgdb/) by Marcus Folkesson
 * [Linux Kernel Debugging](https://cs4118.github.io/dev-guides/kernel-debugging.html)
+* [How I Learned to Love the Email Patch Developer Workflow](https://nasamuffin.github.io/git/open-source/email/code-review/2019/05/22/how-i-learned-to-love-email-patches.html) by Emily Shaffer
 
 ### Email
 * Learn how to use git+email: [git-send-email](https://git-send-email.io/)

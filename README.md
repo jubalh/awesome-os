@@ -100,9 +100,10 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
-* [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
+* [menix](https://github.com/menix-os/menix) - A minimal and expandable Unix-like operating system.
 * [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
+* [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
 * [octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor

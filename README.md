@@ -248,6 +248,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Apply a Linux kernel patch to the stable tree](https://vimeo.com/8200182) (2009) by Greg Kroah-Hartman
 * [Patch Workflow With Mutt 2019](http://www.kroah.com/log/blog/2019/08/14/patch-workflow-with-mutt-2019/) by Greg Kroah-Hartman
 * [Debug kernel with KGDB](https://www.marcusfolkesson.se/blog/debug-kernel-with-kgdb/) by Marcus Folkesson
+* [Linux Kernel Debugging](https://cs4118.github.io/dev-guides/kernel-debugging.html)
 
 ### Email
 * Learn how to use git+email: [git-send-email](https://git-send-email.io/)

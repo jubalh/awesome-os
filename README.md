@@ -261,5 +261,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [The advantages of an email-driven git workflow](https://drewdevault.com/2018/07/02/Email-driven-git.html) by Drew DeVault
 * [Code review at the speed of email](https://drewdevault.com/2022/07/25/Code-review-with-aerc.html) by Drew DeVault
 
-## Conferences
+## Conferences / Presentations
 * [Linux Plumbers](https://lpc.events/), [YT](https://www.youtube.com/c/LinuxPlumbersConference)
+* [The Linux Foundation](https://www.youtube.com/@LinuxfoundationOrg)

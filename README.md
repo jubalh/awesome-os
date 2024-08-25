@@ -67,7 +67,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [PureDarwin](https://github.com/PureDarwin/PureDarwin/wiki) - PureDarwin is a community project to extend Darwin into a complete, usable operating system
 * [Qubes OS](https://qubes-os.org) - Security-focused OS built on the Xen hypervisor, designed to isolate different compartments based on levels of trust.
 * [RavynOS](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
-* [Redox](https://github.com/redox-os/redox) - written in Rust
+* [Redox](https://gitlab.redox-os.org/redox-os/redox) - written in Rust
 * [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C

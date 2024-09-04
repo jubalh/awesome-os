@@ -214,6 +214,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
 
 * [syzbot](https://syzkaller.appspot.com/upstream) bugs
+* [syzkaller](https://github.com/google/syzkaller) kernel fuzzer
 
 * [Doing more with lore and b4](https://www.youtube.com/watch?v=wTpQYM08_Yg), [slides](https://lpc.events/event/11/contributions/983/attachments/759/1421/Doing%20more%20with%20lore%20and%20b4.pdf)
 

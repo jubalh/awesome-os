@@ -254,6 +254,16 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Linux Kernel Debugging](https://cs4118.github.io/dev-guides/kernel-debugging.html)
 * [How I Learned to Love the Email Patch Developer Workflow](https://nasamuffin.github.io/git/open-source/email/code-review/2019/05/22/how-i-learned-to-love-email-patches.html) by Emily Shaffer
 
+### Debugging
+
+* [Bug hunting](https://www.kernel.org/doc/html/latest/admin-guide/bug-hunting.html)
+* [Bisecting a bug](https://www.kernel.org/doc/html/latest/admin-guide/bug-bisect.html)
+* [Dynamic Debug](https://www.kernel.org/doc/html/latest/admin-guide/bug-bisect.html)
+* [Who Made That Change and When: Using Cregit for Debugging](http://www.gonehiking.org/ShuahLinuxBlogs/blog/2018/10/18/who-made-that-change-and-when-using-cregit-for-debugging/) by Shuah Khan
+* [Make stack dump output useful again](https://lwn.net/Articles/592724/)
+* [Debugging Analysis of Kernel panics and Kernel oopses using System Map](https://sanjeev1sharma.wordpress.com/tag/debug-kernel-panics/) by Sanjeev Sharma
+* [Understanding a Kernel Oops!](https://www.opensourceforu.com/2011/01/understanding-a-kernel-oops/) by Surya Prabhakar
+
 ### Email
 * Learn how to use git+email: [git-send-email](https://git-send-email.io/)
 * Learn how to review patches over email: [git-am](https://git-am.io/)

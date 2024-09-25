@@ -267,6 +267,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Make stack dump output useful again](https://lwn.net/Articles/592724/)
 * [Debugging Analysis of Kernel panics and Kernel oopses using System Map](https://sanjeev1sharma.wordpress.com/tag/debug-kernel-panics/) by Sanjeev Sharma
 * [Understanding a Kernel Oops!](https://www.opensourceforu.com/2011/01/understanding-a-kernel-oops/) by Surya Prabhakar
+* [Tracing Linux kernel with retsnoop](https://nakryiko.com/posts/retsnoop-intro/) by Andrii Nakryiko.
 
 ### Email
 * Learn how to use git+email: [git-send-email](https://git-send-email.io/)

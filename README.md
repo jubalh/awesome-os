@@ -134,6 +134,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing. 
 * [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) - A free Windows-compatible Operating System 
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT&T UNIX System V Source Code
+- [ZorinOS](https://zorin.com/os/) - Zorin OS 17.1 based on GNOME/Ubuntu
 
 ## Books and Guides
 

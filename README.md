@@ -29,7 +29,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with Rust.
 * [FreeRTOS](https://www.freertos.org/), [GitHub](https://github.com/FreeRTOS/FreeRTOS) - IoT operating system for microcontrollers, by Amazon.
-* [GarnOS](https://github.com/Garnek0/GarnOS) - Hobby OS powered by a modular kernel.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 

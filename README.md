@@ -29,7 +29,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) - A UNIX-like kernel for the i386 architecture.
 * [Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with Rust.
 * [FreeRTOS](https://www.freertos.org/), [GitHub](https://github.com/FreeRTOS/FreeRTOS) - IoT operating system for microcontrollers, by Amazon.
-* [GarnOS](https://github.com/Garnek0/GarnOS) - Hobby OS powered by a modular kernel.
 * [Genode](https://genode.org/) - A FOSS operating system framework consisting of a microkernel abstraction layer and a collection of userspace components
 * [Gloire](https://github.com/streaksu/Gloire) - An OS built with the [Ironclad](https://www.nongnu.org/ironclad/) kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.
 * [GreenteaOS](https://greenteaos.github.io/), [Github](https://github.com/GreenteaOS/Greentea) - A free OS designed to be compatible with Windows executables 
@@ -110,7 +109,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.
 * [orange_slice](https://github.com/gamozolabs/orange_slice) - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
-* [OrchestrOS](https://github.com/Garnek0/OrchestrOS) - A simple, hobby, 64-bit operating system. This is a rewrite of GarnOS that focuses on simplicity, portability and maintainability. Written in C.
+* [Ovation](https://github.com/Garnek0/Ovation) - A simple, hobby, 64-bit operating system that focuses on simplicity, portability and maintainability. Written in C.
 * [pranaOS](https://github.com/pranaOS/pranaOS) - A unix operating system written from scratch in c / c++
 * [quickOS](evrestrgb.github.io) - An OS made by an independant developer, still in development, like MS-DOS, but in qbasic. It's MADE with qb64.
 * [r3](https://github.com/Narasimha1997/r3) - A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities

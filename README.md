@@ -69,6 +69,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Qubes OS](https://qubes-os.org) - Security-focused OS built on the Xen hypervisor, designed to isolate different compartments based on levels of trust.
 * [RavynOS](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Redox](https://github.com/redox-os/redox) - written in Rust
+* [rou2exOS](https://github.com/krustowski/rou2exOS), [Blog](https://blog.vxn.dev/rou2exos-rusted-edition) - A second iteration of the DOS-like hobby OS written in Rust and x86_64 assembly
 * [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C

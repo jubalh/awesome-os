@@ -47,6 +47,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
 * [L4re](https://github.com/kernkonzept/l4re-core) - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) - UNIX-like 64-bit operating system written in C++.
+* [Maestro](https://github.com/maestro-os/maestro), [Blog](https://blog.lenot.re) - Operating system written in Rust, aiming to be a lightweight version of Linux
 * [Mako](https://github.com/AjayMT/mako) - Hobby OS for x86 from scratch, written in C
 * [MaslOS](https://github.com/marceldobehere/MaslOS) - A 64 bit GUI multitasking Hobby OS written mostly from scratch in C++ and a bit of C/ASM.
 * [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) - A hobby OS written in modern C++20 which aims to be Unix-like.

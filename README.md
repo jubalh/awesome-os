@@ -224,6 +224,8 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 * [Der Linux Kernel Entwicklungs-Workflow](https://media.ccc.de/v/clt23-193-der-linux-kernel-entwicklungs-workflow) (2023, German) by Rouven Czerwinski
 
+* [How to write Rust in the kernel](https://lwn.net/Articles/1024941/) by Daroc Alden
+
 ### Tools
 
 * [b4](https://github.com/mricon/b4), [docu](https://b4.docs.kernel.org/en/latest/), a tool to help with email-based patch workflows

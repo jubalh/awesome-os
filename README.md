@@ -37,6 +37,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [HalideOS](https://gdsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [HarveyOS](https://harvey-os.org/) - A distributed operating system
 * [HelenOS](https://github.com/HelenOS/helenos) - multikernel multiserver OS
+* [Hermit](https://hermit-os.org/) - A Rust-based, lightweight unikernel
 * [House](https://programatica.cs.pdx.edu//House/) - Haskell User's Operating System and Environment.
 * [Hubris](https://hubris.oxide.computer/) - Hubris is an operating system for microcontrollers developed by Oxide Computer Company in Rust
 * [Illumos](https://illumos.org/) - illumos is a Unix operating system which provides next-generation features for downstream distributions (like OmniOS, OpenIndiana, and Tribblix)
@@ -72,7 +73,6 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [RavynOS](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 * [Redox](https://github.com/redox-os/redox) - written in Rust
 * [rou2exOS](https://github.com/krustowski/rou2exOS), [Blog](https://blog.vxn.dev/rou2exos-rusted-edition) - A second iteration of the DOS-like hobby OS written in Rust and x86_64 assembly
-* [RustyHermit](https://github.com/hermitcore/rusty-hermit) - A Rust-based, lightweight unikernel
 * [Sanos](http://www.jbox.dk/sanos/), [GitHub](https://github.com/ringgaard/sanos) - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.
 * [SayoriOS](https://github.com/pimnik98/SayoriOS) - Hobby OS for x86 computers, currently under active development, written in C
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS

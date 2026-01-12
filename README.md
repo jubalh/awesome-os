@@ -59,6 +59,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) - Research Operating System that runs Scheme on bare-metal
 * [Minoca OS](https://github.com/minoca/os) - General purpose OS, written in C
 * [MollenOS](https://github.com/Meulengracht/MollenOS) - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
+* [myOS]() - Under development and Maintenance by a single Undergraduate who just wanted his machine to execute his own instructions. 
 * [MyXomycota](https://sourceforge.net/projects/myxomycota/) - Monolithic kernel in C
 * [NESOS](https://notin.tokyo/nesos/) - An OS for the Nintendo Entertainment System!
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C

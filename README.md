@@ -106,6 +106,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [gopher-os](https://github.com/gopher-os/gopher-os) - A proof of concept OS kernel written in Go
 * [hhuOS](https://github.com/hhuOS/hhuOS) - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
+* [hypervisor](https://github.com/willamhou/hypervisor) - ARM64 bare-metal Type-1 hypervisor in Rust (no_std). Runs at EL2, boots Linux with 4 vCPUs, virtio-blk/net, FF-A v1.1, S-EL2 SPMC, and pKVM integration. QEMU virt target.
 * [lyre](https://github.com/lyre-os/lyre) - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.
 * [managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O
 * [menix](https://github.com/menix-os/menix) - A minimal and expandable Unix-like operating system.

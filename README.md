@@ -83,6 +83,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [SimpleOS](https://github.com/xing1357/SimpleOS) - Simple Operating System coded in C and Assembly
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by Jonas 'Sortie' Termansen
+* [Stanix](https://github.com/tayoky/stanix) - An open source modular hobby OS in C, with features such as dynamic linking and a page cache.
 * [Syllable](http://syllable.metaproject.frl/) - Successor of AtheOS, Syllable is designed in the tradition of the Amiga and BeOS, but built using many parts from the GNU project and Linux.
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) - 32/64 bit operating system written in C for arm platform
 * [TempleOS](https://github.com/minexew/TempleOS) - Religious OS :-)

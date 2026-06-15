@@ -81,6 +81,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Sculpt OS](https://genode.org/download/sculpt) - Genode based OS
 * [Serenity](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers
 * [SimpleOS](https://github.com/xing1357/SimpleOS) - Simple Operating System coded in C and Assembly
+* [SimpleOS (zacharyr0th)](https://github.com/zacharyr0th/SimpleOS) - Educational 32-bit x86 Unix-like OS in C and assembly with processes, virtual memory, syscalls, pipes, signals, a filesystem, shell, ISO build, and browser demo.
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/) - a homebrew operating system from scratch, in assembly language 
 * [Sortix](https://sortix.org/) - Hobby OS in C and C++ by Jonas 'Sortie' Termansen
 * [Stanix](https://github.com/tayoky/stanix) - An open source modular hobby OS in C, with features such as dynamic linking and a page cache.

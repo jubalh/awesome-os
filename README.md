@@ -155,7 +155,8 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - Easy to read book covering virtualization, concurrency and persistence
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by *Do Hoang Tu*
-* [Osdev Notes](https://codeberg.org/dreamportdev/Osdev-Notes) - How to write an operating system from scratch by *Ivan G.* and *Dean T.* 
+* [Osdev Notes](https://codeberg.org/dreamportdev/Osdev-Notes) - How to write an operating system from scratch by *Ivan G.* and *Dean T.*
+* [lytlnyblOS](https://github.com/red-mutt/lytlnyblOS) - A beginner-friendly guide to building a 32-bit x86 operating system from scratch.
 
 ### Tutorials
 

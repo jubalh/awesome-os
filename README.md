@@ -26,6 +26,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [Dreamos64](https://codeberg.org/dreamos82/DreamOs64) - An x86-64 hobby os built from scratch
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.
+* [Equinox OS](https://github.com/amnottdevv/Equinox-os) - A 32-bit x86 hobby operating system written from scratch in C++17 featuring a self-hosting C compiler, preemptive multitasking, demand paging, FAT32 read/write, a TCP/IP stack with HTTPS, and a built-in LVGL desktop.
 * [Ethereal](https://github.com/sasdallas/Ethereal) - Ethereal is an advanced modular operating system with support for networking and USB as well as a GUI-enabled userspace.
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).

@@ -23,6 +23,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [ChibiOS](http://www.chibios.org/) - a complete development environment for embedded applications including RTOS, an HAL, peripheral drivers, support files and tools
 * [Clive](https://lsub.org/ls/clive.html) - A unikernel OS inspired by Plan9 and Nix developed at *Universidad Rey Juan Carlos of Madrid*
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) project).
+* [Daxo OS](https://github.com/daxo-developer/daxo_os) - An independent x86_64 multitasking microkernel written in Rust, featuring 4-level paging memory isolation and async task executor.
 * [DragonOS](https://github.com/fslongjin/DragonOS) - An x86-64 OS build from scratch.
 * [Dreamos64](https://codeberg.org/dreamos82/DreamOs64) - An x86-64 hobby os built from scratch
 * [Embox](https://embox.github.io/) - Configurable operating system kernel designed for resource constrained and embedded systems.

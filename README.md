@@ -177,6 +177,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) by Alex Parker
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 * [mya](https://github.com/flydeoo/mya) a fun project to create OS from scratch by Erfan
+* [AMUNIX : Custom Unix Shell Guide](https://github.com/Cryogenicboom/Amunix/blob/main/docs/Part0.md) by CryogenicBoom, a simple SHELL development documentation. 
 
 ### Websites
 * [Genodians](https://genodians.org/) - Stories around the Genode Operating System

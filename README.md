@@ -178,6 +178,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 * [mya](https://github.com/flydeoo/mya) a fun project to create OS from scratch by Erfan
 * [AMUNIX : Custom Unix Shell Guide](https://github.com/Cryogenicboom/Amunix/blob/main/docs/Part0.md) by CryogenicBoom, a simple SHELL development documentation. 
+* [PyOS - Build your own operating system in Python](https://robcox2910.github.io/py-os/) by Rob Cox
 
 ### Websites
 * [Genodians](https://genodians.org/) - Stories around the Genode Operating System

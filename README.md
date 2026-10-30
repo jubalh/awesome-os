@@ -114,6 +114,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [moros](https://github.com/vinc/moros) - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [mOS](https://github.com/MQuy/mos) - A hobby operating system developed from scratch
 * [nopeos](https://github.com/d99kris/nopeos) - Simple OS kernel with BASIC interpreter for x86
+* [NPKernel](https://github.com/7yokki/NP-Kernel-OSP) - Advanced 64-bit-based operating system kernel
 * [octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 * [oneOS](https://github.com/nimelehin/oneOS) - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) -  an operating system targeting x86, ARMv7, Aarch64.

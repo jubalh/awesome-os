@@ -68,6 +68,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Nanos](https://github.com/nanovms/nanos) - Unikernel that is linux-compatible, written in C
 * [NodeOS](https://github.com/NodeOS/NodeOS) - OS using NodeJS and Linux
 * [Northport](https://github.com/DeanoBurrito/northport) - Monolithic kernel and support libraries for riscv64 and x86_64.
+* [Pagh-OS](https://github.com/ccclosed/Pagh-OS) - x86-64 hobby operating system in Rust: UEFI/Limine boot, ext2 with WAL, own TCP/IP stack, framebuffer GUI.
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS), written in Assembly Language
 * [Pidi OS](https://github.com/GandelXIV/pidi-os) - Independent and minimalistic OS
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) - ToaruOS-based, My Little Pony themed OS
